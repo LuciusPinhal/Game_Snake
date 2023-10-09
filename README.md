@@ -11,13 +11,26 @@
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-  
-  <img src="https://github.com/LuciusPinhal/Game_Snake/assets/106531308/25366b5f-5228-4e59-bbcb-542b6d974af6"
-         alt="Computador iuriCode"
-         width="300px"
-    >
+
+https://github.com/LuciusPinhal/Game_Snake/assets/106531308/27656023-95ac-4882-afb1-598d895adde7
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
