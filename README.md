@@ -3,6 +3,7 @@
 &nbsp;
 </div>
 
+https://gamesnakefromlucius.netlify.app/
 ## 
 &nbsp;
 
@@ -19,6 +20,7 @@ https://github.com/LuciusPinhal/Game_Snake/assets/106531308/27656023-95ac-4882-a
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 </div>
+
 
 
 
